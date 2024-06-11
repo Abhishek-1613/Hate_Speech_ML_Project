@@ -29,3 +29,6 @@ This project involves detecting hate speech, offensive speech, or normal speech 
 
 ## Results
 The project compares different machine learning models for hate speech detection, with detailed performance metrics for each model. For our Dataset, SVM and Random Forest were the best.
+
+## Note
+You can also check a similar project in the repository named "ALternate_ML_IR_Project," which I did as an assignment for a company.
