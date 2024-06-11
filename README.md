@@ -12,20 +12,20 @@ This project involves detecting hate speech, offensive speech, or normal speech 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hate-speech-detection.git
-    cd hate-speech-detection
+    git clone https://github.com/Abhishek-1613/Hate_Speech_ML_Project.git
+    cd ML_Hate_Speech_Detection_Project
     ```
 2. Install the required packages:
     ```bash
-    pip install -r requirements.txt
+    pip install pandas numpy sklearn scikitplot matplotlib seaborn
     ```
 
 ## Usage
-1. Prepare the dataset (e.g., Kaggle dataset) and place it in the `data` folder.
+1. Prepare the dataset (e.g., the Kaggle dataset) and place it in the `data` folder.
 2. Run the model training script:
-    Using Jupyter Notebook this project can be ran easily with all the libraries I mentioned above installed.
+    Using Jupyter Notebook, this project can be run easily with all the libraries I mentioned above installed.
 3. Evaluate the models and identify the best-performing model:
-    At the end of all the Models the results were shown and we compared them alongwith their AUC-ROC curves for final decision.
+    At the end of all the Models, the results were shown, and we compared them along with their AUC-ROC curves for the final decision.
 
 ## Results
-The project demonstrates the comparison of different machine learning models for hate speech detection, with detailed performance metrics for each model and for our Dataset SVM and Random forest were the best.
+The project compares different machine learning models for hate speech detection, with detailed performance metrics for each model. For our Dataset, SVM and Random Forest were the best.
